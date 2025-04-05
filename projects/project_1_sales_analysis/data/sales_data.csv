@@ -1,0 +1,10 @@
+Fecha,Producto,Categoria,Precio,Cantidad,Ciudad
+2024-01-05,Auriculares,Audio,25.99,2,Madrid
+2024-01-08,Laptop,Computación,799.00,1,Barcelona
+2024-01-10,Teclado,Accesorios,45.00,3,Valencia
+2024-01-15,Mouse,Accesorios,19.99,2,Madrid
+2024-01-20,Monitor,Computación,150.00,1,Sevilla
+2024-01-22,Laptop,Computación,799.00,1,Madrid
+2024-01-25,Mouse,Accesorios,19.99,4,Barcelona
+2024-01-28,Teclado,Accesorios,45.00,1,Valencia
+2024-01-30,Auriculares,Audio,25.99,2,Sevilla
